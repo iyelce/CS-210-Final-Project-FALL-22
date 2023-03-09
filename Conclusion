@@ -1,0 +1,19 @@
+Conclusion:
+
+As we stated earlier, our main goal is to assist individuals in finding accommodations that align with their preferences, while also providing insights for hosts regarding how they can improve their listings to get higher ratings.
+
+According to our analysis of the Los Angeles AirBnB data, there are multiple apparent factors that affect average ratings of individual listings. Availability of parking spots and kitchens are one important factor, in addition, increasing number of beds and bedrooms has positive impact on ratings as well. Furthermore, entire homes and apartmens has higher average ratings than other types of listings such as private/shared rooms and hotel rooms.
+
+Accuracy of our machine learning model is not very high since there is no significant increase/ decrease in ratings with respect to different factors (for example, existence of parking spot has a positive impact on average rating, yet it only increases from around 4.5 to 4.7). A deeper analysis of AirBnb databases may result in a more accurate machine learning algorithm, which we will be talking about in the future work part.
+
+
+Future Work:
+
+In the future, the methods that are used here can also be used for other cities as well as Los Angeles to see if there are any other regional factors that might have influence over the ratings. Furthermore, our model can be further improved to predict the expected rating of an accommodation if certain features are satisfied for the accommodation.
+
+In addition, our work can be further improved for predicting other countries that have Airbnb service, and more defining and influencing factors might be collected, and the ratings could be analyzed more deeply. Thus the users from other countries may benefit from the outcomes of this and further researches.
+
+Furthermore, additional machine learning models and statistic methods could be used for additional research to predict an approximate rating for the accommodation or finding what factors have greater effect on altering rating of the accommodation.
+
+Lastly, the some amenities of the accommodations that are written explicitly such as 'LG Smart TV' could be handled as special cases. Since we have filtered such amenities, future researches might choose to analyze explicit amenities more deeply and fill the missing data with suitable values. After doing so, there is a posibility of acquiring more precise results by collecting more data in future.
+
