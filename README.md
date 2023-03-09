@@ -1,19 +1,7 @@
 # CS-210-Final-Project-FALL-22
 
 Exploratory Data Analysis Regarding Airbnb Ratings in Los Angeles - Group 22
-Group Members:
 
-Ahmet Alperen Güngör - 28847
-
-Ali Cenker Yakışır - 28831
-
-Aydın Enes Bekar - 29546
-
-Batur Karakaya - 28881
-
-Cansın Narşahin - 29126
-
-İdil Yelçe - 28845
 
 
 Introduction:
